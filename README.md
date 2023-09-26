@@ -1,7 +1,13 @@
 # Organoid-Classifier
 
 ## Overview
-Deep learning models to predict transcription factor expression from bright field images of aggremate of iPS cells undergoing differentiation. 
+This is the source code of the manuscript.
+
+This deep learning model predicts the percentage of the area expressing RAX on the image from a bright-field image of a developing hypothalamic-pituitary complex. The input is the image of the developing organoid (day30), and the predicted result is output as A (70<%RAX), B (40≤%RAX<70), and C (%RAX<40). 
+
+More detail of this model are shown in our paper;
+
+Human Pluripotent Stem Cell Culture Outcome Predicted by Deep Learning.
 
 
 ## Setup
