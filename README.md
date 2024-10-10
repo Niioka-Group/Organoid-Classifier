@@ -9,6 +9,16 @@ More detail of this model are shown in our paper;
 
 Human Pluripotent Stem Cell Culture Outcome Predicted by Deep Learning.
 
+## Folders
+
+“ROC_AUC” contains the formula for calculating ROC and AUC for our models and experts
+
+“eff” contains the code for training our EfficientNet model, and evaluating and visualizing the results of classification.
+
+“vit” contains the code for training our Visual Transformer model, and evaluating and visualizing the results of classification.
+
+“ensemble” contains the code classifying the images using the ensemble of our models, EfficientNet and Visual Transformer.
+
 
 ## Setup
 
